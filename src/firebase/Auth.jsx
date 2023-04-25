@@ -18,12 +18,12 @@ import { createContext } from "react";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDQ-aeNTfIRXQ6iqAyFcabhKNAUEgOVjdg",
-  authDomain: "e-commerce-35d79.firebaseapp.com",
-  projectId: "e-commerce-35d79",
-  storageBucket: "e-commerce-35d79.appspot.com",
-  messagingSenderId: "601189601276",
-  appId: "1:601189601276:web:e1c29e4e42400f32942c79",
+  apiKey: "AIzaSyAVGqjTbz6pVaC0u3sOfZT86cy5Bv9AvAg",
+  authDomain: "ecommerce-6fc98.firebaseapp.com",
+  projectId: "ecommerce-6fc98",
+  storageBucket: "ecommerce-6fc98.appspot.com",
+  messagingSenderId: "602292309016",
+  appId: "1:602292309016:web:96bb3e87075e507f38076d"
 };
 
 // Initialize Firebase
