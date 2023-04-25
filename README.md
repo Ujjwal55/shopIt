@@ -11,4 +11,3 @@ framework, for displaying product information in a visually appealing and user-f
  
 ● Overall, QuickCart is a robust and *user-friendly* platform that provides an enjoyable and seamless online
 shopping experience for customers.
-# https://quickcart.vercel.app/
